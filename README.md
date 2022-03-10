@@ -31,9 +31,9 @@
   
   <div>
      <a href="https://instagram.com/kailaine_vianaa" target="_blank">
-       <img align="center" height="25" width="90" 
+       <img align="center" height="30" width="110" 
        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:kailainenaiaraviana55422@gmail.com">
-       <img align="center" height="25" width="80" 
+       <img align="center" height="30" width="90" 
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
