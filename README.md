@@ -36,4 +36,7 @@
     <a href = "mailto:kailainenaiaraviana55422@gmail.com">
        <img align="center" height="30" width="90" 
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    
+    ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
