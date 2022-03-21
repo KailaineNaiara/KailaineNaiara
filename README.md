@@ -1,7 +1,7 @@
 ### Olá !! Eu sou a Kailaine Naiara
 ◉ 🖥️ Atualmente trabalho como jovem aprendiz de desenvolvimento de sistemas             
 ◉ ✏️ Estudando Java e Javascript                                                         
-◉ 👽 Pronomes Ela/Dela
+◉ 👽 Pronomes Ela/Dele
 
 
 <div align="center">
