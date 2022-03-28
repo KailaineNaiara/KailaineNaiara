@@ -1,4 +1,5 @@
-### Olá !! Eu sou a Kailaine Naiara
+### Olá, eu sou a Kailaine Naiara! Seja bem-vindo (a) ao meu GitHub!
+
 ◉ 🖥️ Atualmente trabalho como jovem aprendiz de desenvolvimento de sistemas             
 ◉ ✏️ Estudando Java e Javascript                                                         
 ◉ 👽 Pronomes Ela/Dela
