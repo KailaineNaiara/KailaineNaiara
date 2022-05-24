@@ -1,5 +1,6 @@
 ### Hi, I'm Kailaine Naiara! Welcome to my GitHub !! 👾
 
+<img align="center" alt="Imagem de Fundo do README." src="https://i.pinimg.com/originals/ff/aa/36/ffaa36e56377c24d1ab4c76a614212e6.gif" height= "550px" width= "800px">
 ◉ 🖥️ Currently I work as a young systems development apprentice             
 ◉ ✏️ Studying Java and Javascript                                                        
 
