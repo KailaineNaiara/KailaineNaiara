@@ -1,14 +1,14 @@
 ### Hi, I'm Kailaine Naiara! Welcome to my GitHub !! 👾
+<br>
+◉ 🖥️ Currently I work as a young systems development apprentice       
 
-<img align="center" alt="Imagem de Fundo do README." src="https://i.pinimg.com/originals/ff/aa/36/ffaa36e56377c24d1ab4c76a614212e6.gif" height= "550px" width= "800px">
-◉ 🖥️ Currently I work as a young systems development apprentice             
 ◉ ✏️ Studying Java and Javascript                                                        
 
 
 <div align="center">
   <a href="https://github.com/KailaineNaiara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KailaineNaiara&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailaineNaiara&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KailaineNaiara&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailaineNaiara&layout=compact&langs_count=7&theme=moltack"/>
 </div>
   <div style="display: inline_block"><br>
 <img align="center" alt="Kailaine-Js" height="30" width="110"
